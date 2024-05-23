@@ -37,6 +37,8 @@ class Prompt
 
                 if (self::$_oPrompt == NULL) {
                     self::$_oPrompt = new Prompt();
+
+                    // TODO: DEPRECATED - Throws PHP Notice, Remove in future versions
                     self::$_oPrompt->_bPrompt = self::$_bPrompt;
                 }
             }
@@ -72,8 +74,10 @@ class Prompt
         if (file_exists($sFile)) {
             include_once $sFile;
 
-            // STORE TRANSLATIONS
-            $this->_aTranslations[$sLangCode] = $aTranslations;
+            if (isset($aTranslations)) {
+                // STORE TRANSLATIONS
+                $this->_aTranslations[$sLangCode] = $aTranslations;
+            }
         }
 
         return isset($this->_aTranslations[$sLangCode]);
