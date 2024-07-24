@@ -28,5 +28,4 @@ $aTranslations = array(
         'Wichtig: Keine `<h1>` Überschrift.',
         '4. Verwende keine HTML Entities wie `&uuml;` oder `&auml;` und auch keine einfachen oder doppelten Anführungszeichen.',
     )),
-    'LONG_DESCRIPTION_CONTINUE' => 'Setzen bitte deine vorherige Antwort fort.',
 );

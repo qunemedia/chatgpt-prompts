@@ -28,5 +28,4 @@ $aTranslations = array(
         'Important: No `<h1>` heading.',
         '4. Do not use any HTML entities like `&uuml;` or `&auml;` and also no single or double quotes.',
     )),
-    'LONG_DESCRIPTION_CONTINUE' => 'Continue from your previous response.',
 );
