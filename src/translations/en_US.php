@@ -1,6 +1,8 @@
 <?php
 
 $aTranslations = array(
+    'CONTEXT' => 'Between the separators `--- START OF CONTEXT ---` and `--- END OF CONTEXT ---` are meta-information that is relevant for the creation of the content. Please note that this information should not be included in the content: "%s"',
+
     'LONG_DESCRIPTION' => 'Create an article long description for "%s" from "%s". - And please without an intro and with max. %s words.',
     'SHORT_DESCRIPTION' => 'Create an article short description for "%s" from "%s". - And please without an intro and with max. %s words.',
     'PRODUCT_SEARCHKEYS' => 'Create a comma-separated CSV list of synonyms for "%s" from "%s" without size, volume, liter, or quantity indications, without brand/manufacturer or individual product features such as color, and without duplicates.',

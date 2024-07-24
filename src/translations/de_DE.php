@@ -1,6 +1,8 @@
 <?php
 
 $aTranslations = array(
+    'CONTEXT' => 'Zwischen den Trennern `--- START OF CONTEXT ---` und `--- END OF CONTEXT ---` stehen Meta-Informationen, die für die Erstellung des Inhalts relevant sind. Bitte beachte, dass diese Informationen nicht in den Inhalt übernommen werden sollen: "%s"',
+
     'LONG_DESCRIPTION' => 'Erstelle eine Artikel-Langbeschreibung für "%s" von "%s". - Und bitte ohne Intro und mit max. %s Wörtern.',
     'SHORT_DESCRIPTION' => 'Erstelle eine Artikel-Kurzbeschreibung für "%s" von "%s". - Und bitte ohne Intro und mit max. %s Wörtern.',
     'PRODUCT_SEARCHKEYS' => 'Erstelle eine kommaseparierte CSV-Liste von Synonymen für "%s" vom "%s" ohne Größen-, Volumen, Liter- oder Mengenangaben, ohne Marke/Hersteller oder individuelle Produktmerkmale wie Farbe und ohne Dopplungen.',
