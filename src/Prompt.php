@@ -8,6 +8,9 @@ class Prompt
 
     private static $_bPrompt = FALSE;
 
+    // Define the instance properties
+    private $_bInstancePrompt;
+
     private string $_sLangCode = 'en_US';
 
     private array $_aTranslations = array();
@@ -34,12 +37,11 @@ class Prompt
             self::$_bPrompt = TRUE;
 
             if (self::$_bPrompt) {
-
                 if (self::$_oPrompt == NULL) {
-                    self::$_oPrompt = new Prompt();
+                    self::$_oPrompt = new self();
 
                     // TODO: DEPRECATED - Throws PHP Notice, Remove in future versions
-                    self::$_oPrompt->_bPrompt = self::$_bPrompt;
+                    self::$_oPrompt->_bInstancePrompt = self::$_bPrompt;
                 }
             }
         }
