@@ -15,7 +15,7 @@ $aTranslations = array(
     "LABEL___zh_TW" => "中文 (繁體)",
     "LABEL___uk_UA" => "烏克蘭語",
 
-    'CONTEXT' => ',
+    "CONTEXT" => "在分隔符 `--- 上下文開始 ---` 和 `--- 上下文結束 ---` 之間是與內容創作相關的元信息。請注意，這些信息不應包含在內容中: "%s"",
 
     'LONG_DESCRIPTION' => '',
     'SHORT_DESCRIPTION' => '',

@@ -15,7 +15,7 @@ $aTranslations = array(
     "LABEL___zh_TW" => "Chino (tradicional)",
     "LABEL___uk_UA" => "Ucraniano",
 
-    'CONTEXT' => ',
+    "CONTEXT" => "Entre los separadores `--- INICIO DEL CONTEXTO ---` y `--- FIN DEL CONTEXTO ---` hay información meta relevante para la creación del contenido. Tenga en cuenta que esta información no debe incluirse en el contenido: "%s"",
 
     'LONG_DESCRIPTION' => '',
     'SHORT_DESCRIPTION' => '',

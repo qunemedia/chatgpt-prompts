@@ -15,7 +15,7 @@ $aTranslations = array(
     "LABEL___zh_TW" => "Çince (geleneksel)",
     "LABEL___uk_UA" => "Ukraynaca",
 
-    'CONTEXT' => ',
+    "CONTEXT" => "`--- BAĞLAMIN BAŞLANGICI ---` ve `--- BAĞLAMIN SONU ---` ayraçları arasında içerik oluşturulması için ilgili meta bilgileri yer almaktadır. Lütfen bu bilgilerin içeriğe dahil edilmemesi gerektiğini unutmayın: "%s"",
 
     'LONG_DESCRIPTION' => '',
     'SHORT_DESCRIPTION' => '',
