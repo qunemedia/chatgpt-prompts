@@ -1,19 +1,19 @@
 <?php
 
 $aTranslations = array(
-    "LABEL___en_US" => "",
-    "LABEL___de_DE" => "",
-    "LABEL___fr_FR" => "",
-    "LABEL___es_ES" => "",
-    "LABEL___pt_PT" => "",
-    "LABEL___it_IT" => "",
-    "LABEL___nl_NL" => "",
-    "LABEL___pl_PL" => "",
-    "LABEL___tr_TR" => "",
-    "LABEL___ru_RU" => "",
-    "LABEL___uk_UA" => "",
-    "LABEL___zh_CN" => "",
-    "LABEL___zh_TW" => "Chinese ",
+    "LABEL___en_US" => "Inglês",
+    "LABEL___de_DE" => "Alemão",
+    "LABEL___fr_FR" => "Francês",
+    "LABEL___es_ES" => "Espanhol",
+    "LABEL___nl_NL" => "Holandês",
+    "LABEL___pl_PL" => "Polaco",
+    "LABEL___it_IT" => "Italiano",
+    "LABEL___pt_PT" => "Português",
+    "LABEL___tr_TR" => "Turco",
+    "LABEL___ru_RU" => "Russo",
+    "LABEL___zh_CN" => "Chinês (simplificado)",
+    "LABEL___zh_TW" => "Chinês (tradicional)",
+    "LABEL___uk_UA" => "Ucraniano",
 
     'CONTEXT' => ',
 
