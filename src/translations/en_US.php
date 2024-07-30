@@ -1,6 +1,20 @@
 <?php
 
 $aTranslations = array(
+    "LABEL___en_US" => "English",
+    "LABEL___de_DE" => "German",
+    "LABEL___fr_FR" => "French",
+    "LABEL___es_ES" => "Spanish",
+    "LABEL___pt_PT" => "Portuguese",
+    "LABEL___it_IT" => "Italian",
+    "LABEL___nl_NL" => "Dutch",
+    "LABEL___pl_PL" => "Polish",
+    "LABEL___tr_TR" => "Turkish",
+    "LABEL___ru_RU" => "Russian",
+    "LABEL___uk_UA" => "Ukrainian",
+    "LABEL___zh_CN" => "Chinese (Simplified)",
+    "LABEL___zh_TW" => "Chinese (Traditional)",
+
     'CONTEXT' => 'Between the separators `--- START OF CONTEXT ---` and `--- END OF CONTEXT ---` are meta-information that is relevant for the creation of the content. Please note that this information should not be included in the content: "%s"',
 
     'LONG_DESCRIPTION' => 'Create an article long description for "%s" from "%s". - And please without an intro and with max. %s words.',
@@ -13,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => 'Create an manufacturer short description for "%s" of "%s". - And please without an intro and with max. 255 characters.',
     'VENDOR_SHORT_DESCRIPTION' => 'Create an vendor short description for "%s" of "%s". - And please without an intro and with max. 255 characters.',
 
-    'TRANSLATION_TITLE' => 'Translate only article name "%s" from "%s" into "%s" - and please without an intro.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Translate only the article long description for "%s" from "%s" into "%s" - and please without an intro: "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Translate only the article short description for "%s" from "%s" into "%s" - and please without an intro: "%s".',
+    'TRANSLATION_TITLE' => 'Translate only article name "%s" from "%s" into "English" - and please without an intro.',
+    'TRANSLATION_LONG_TRANSLATION' => 'Translate only the article long description for "%s" from "%s" into "English" - and please without an intro: "%s".',
+    'TRANSLATION_SHORT_DESCRIPTION' => 'Translate only the article short description for "%s" from "%s" into "English" - and please without an intro: "%s".',
 
     'OPTIMIZE_CONTENT' => 'Optimize the following content for our website: %s',
 
