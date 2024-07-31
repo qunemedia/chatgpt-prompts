@@ -36,6 +36,12 @@ $aTranslations = array(
     'ENHANCED_ARTICLE_DATA' => 'La información mejorada del producto del fabricante está disponible en la siguiente cadena JSON (Importante: No se debe tomar ninguna información interna como precios de compra o disponibilidad de la información del fabricante): `%s`',
 
     'LONG_DESCRIPTION_INSTRUCTION' => implode(PHP_EOL, array(
-        
+		'Estructura de la siguiente manera:',
+		'1. Ventaja principal en una frase corta, tan concisa y concreta como sea posible en formato `<p>`.',
+		'2. Elementos de lista con características y el beneficio que cada característica aporta.',
+		'3. Un párrafo por característica que consiste en un encabezado `<h2>` (ventaja de la característica + metáfora)',
+		'y un breve texto que respalda la característica con una historia cotidiana.',
+		'Importante: No usar encabezado `<h1>`.',
+		'4. No usar entidades HTML como `&uuml;` o `&auml;` ni comillas simples o dobles.',
     )),
 );

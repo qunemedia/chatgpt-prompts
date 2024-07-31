@@ -36,6 +36,12 @@ $aTranslations = array(
     'ENHANCED_ARTICLE_DATA' => 'Üreticiden gelişmiş ürün bilgileri aşağıdaki JSON dizesinde mevcuttur (Önemli: Üretici bilgisi gibi hiçbir dahili bilgi alınmamalıdır, örneğin alış fiyatları veya bulunabilirlik): `%s`',
 
     'LONG_DESCRIPTION_INSTRUCTION' => implode(PHP_EOL, array(
-        
+		'Aşağıdaki gibi yapılandırın:',
+		'1. Ana avantajı, `<p>` formatında olabildiğince kısa ve somut bir cümlede belirtin.',
+		'2. Özellikler ve bu özelliklerin sağladığı faydalarla liste öğeleri.',
+		'3. Her özellik için bir paragraf, `<h2>` başlığı (özelliğin avantajı + metafor)',
+		've özelliği günlük bir hikaye ile destekleyen kısa bir metin.',
+		'Önemli: `<h1>` başlığı kullanmayın.',
+		'4. `&uuml;` veya `&auml;` gibi HTML varlıklarını ve tek veya çift tırnak işaretlerini kullanmayın.',
     )),
 );

@@ -36,6 +36,12 @@ $aTranslations = array(
     'ENHANCED_ARTICLE_DATA' => 'Verbeterde productinformatie van de fabrikant is beschikbaar in de volgende JSON-string (Belangrijk: Geen interne informatie zoals aankoopprijzen of beschikbaarheid mag worden overgenomen uit de informatie van de fabrikant): `%s`',
 
     'LONG_DESCRIPTION_INSTRUCTION' => implode(PHP_EOL, array(
-        
+		'Structuur als volgt:',
+		'1. Belangrijkste voordeel in een korte zin, zo beknopt en concreet mogelijk in `<p>` opmaak.',
+		'2. Lijstitems met functies en het voordeel dat de functie biedt.',
+		'3. Eén alinea per functie, bestaande uit een `<h2>` kop (voordeel van de functie + metafoor)',
+		'en een korte tekst die de functie ondersteunt met een alledaags verhaal.',
+		'Belangrijk: Geen `<h1>` kop.',
+		'4. Gebruik geen HTML-entiteiten zoals `&uuml;` of `&auml;` en ook geen enkele of dubbele aanhalingstekens.',
     )),
 );
