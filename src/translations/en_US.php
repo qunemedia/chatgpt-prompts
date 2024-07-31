@@ -1,19 +1,19 @@
 <?php
 
 $aTranslations = array(
-    "LABEL___en_US" => "English",
-    "LABEL___de_DE" => "German",
-    "LABEL___fr_FR" => "French",
-    "LABEL___es_ES" => "Spanish",
-    "LABEL___pt_PT" => "Portuguese",
-    "LABEL___it_IT" => "Italian",
-    "LABEL___nl_NL" => "Dutch",
-    "LABEL___pl_PL" => "Polish",
-    "LABEL___tr_TR" => "Turkish",
-    "LABEL___ru_RU" => "Russian",
-    "LABEL___uk_UA" => "Ukrainian",
-    "LABEL___zh_CN" => "Chinese (Simplified)",
-    "LABEL___zh_TW" => "Chinese (Traditional)",
+    'LABEL___en_US' => 'English',
+    'LABEL___de_DE' => 'German',
+    'LABEL___fr_FR' => 'French',
+    'LABEL___es_ES' => 'Spanish',
+    'LABEL___pt_PT' => 'Portuguese',
+    'LABEL___it_IT' => 'Italian',
+    'LABEL___nl_NL' => 'Dutch',
+    'LABEL___pl_PL' => 'Polish',
+    'LABEL___tr_TR' => 'Turkish',
+    'LABEL___ru_RU' => 'Russian',
+    'LABEL___uk_UA' => 'Ukrainian',
+    'LABEL___zh_CN' => 'Chinese (Simplified)',
+    'LABEL___zh_TW' => 'Chinese (Traditional)',
 
     'CONTEXT' => 'Between the separators `--- START OF CONTEXT ---` and `--- END OF CONTEXT ---` are meta-information that is relevant for the creation of the content. Please note that this information should not be included in the content: "%s"',
 

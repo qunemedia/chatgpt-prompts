@@ -1,19 +1,19 @@
 <?php
 
 $aTranslations = array(
-    "LABEL___en_US" => "Englisch",
-    "LABEL___de_DE" => "Deutsch",
-    "LABEL___fr_FR" => "Französisch",
-    "LABEL___es_ES" => "Spanisch",
-    "LABEL___pt_PT" => "Portugiesisch",
-    "LABEL___it_IT" => "Italienisch",
-    "LABEL___nl_NL" => "Niederländisch",
-    "LABEL___pl_PL" => "Polnisch",
-    "LABEL___tr_TR" => "Türkisch",
-    "LABEL___ru_RU" => "Russisch",
-    "LABEL___uk_UA" => "Ukrainisch",
-    "LABEL___zh_CN" => "Chinesisch (vereinfacht)",
-    "LABEL___zh_TW" => "Chinesisch (traditionell)",
+    'LABEL___en_US' => 'Englisch',
+    'LABEL___de_DE' => 'Deutsch',
+    'LABEL___fr_FR' => 'Französisch',
+    'LABEL___es_ES' => 'Spanisch',
+    'LABEL___pt_PT' => 'Portugiesisch',
+    'LABEL___it_IT' => 'Italienisch',
+    'LABEL___nl_NL' => 'Niederländisch',
+    'LABEL___pl_PL' => 'Polnisch',
+    'LABEL___tr_TR' => 'Türkisch',
+    'LABEL___ru_RU' => 'Russisch',
+    'LABEL___uk_UA' => 'Ukrainisch',
+    'LABEL___zh_CN' => 'Chinesisch (vereinfacht)',
+    'LABEL___zh_TW' => 'Chinesisch (traditionell)',
 
     'CONTEXT' => 'Zwischen den Trennern `--- START OF CONTEXT ---` und `--- END OF CONTEXT ---` stehen Meta-Informationen, die für die Erstellung des Inhalts relevant sind. Bitte beachte, dass diese Informationen nicht in den Inhalt übernommen werden sollen: "%s"',
 
