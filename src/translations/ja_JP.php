@@ -33,7 +33,8 @@ $aTranslations = array(
     'TRANSLATION_LONG_TRANSLATION' => '「%s」のために記事の長い説明を「%s」から日本語に翻訳してください - イントロなしで: "%s"。',
     'TRANSLATION_SHORT_DESCRIPTION' => '「%s」のために記事の短い説明を「%s」から日本語に翻訳してください - イントロなしで: "%s"。',
 
-    'OPTIMIZE_CONTENT' => '以下の内容をウェブサイト用に最適化してください: %s',
+	'OPTIMIZE_CONTENT' => '当サイト向けに以下のコンテンツを最適化してください（例： "-wrapper またはHTMLエンティティを削除するなど）：%s',
+	'OPTIMIZE_TRANSLATION' => '当サイト向けに以下の翻訳を最適化してください（例： "-wrapper またはHTMLエンティティを削除するなど）：%s',
 
     'ENHANCED_ARTICLE_DATA' => 'メーカーからの強化された製品情報が以下のJSON文字列に含まれています（重要：購入価格や在庫状況などの内部情報は、メーカー情報から取得しないでください）: `%s`',
     

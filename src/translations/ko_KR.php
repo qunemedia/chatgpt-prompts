@@ -33,7 +33,8 @@ $aTranslations = array(
     'TRANSLATION_LONG_TRANSLATION' => '"%s"의 "%s"에 대한 기사 긴 설명을 한국어로 번역하십시오 - 인트로 없이 작성해 주세요: "%s".',
     'TRANSLATION_SHORT_DESCRIPTION' => '"%s"의 "%s"에 대한 기사 짧은 설명을 한국어로 번역하십시오 - 인트로 없이 작성해 주세요: "%s".',
 
-    'OPTIMIZE_CONTENT' => '다음 내용을 웹사이트에 맞게 최적화하십시오: %s',
+	'OPTIMIZE_CONTENT' => '웹사이트에 맞게 다음 콘텐츠를 최적화하십시오 (예: "-wrapper 또는 HTML 엔터티 제거): %s',
+	'OPTIMIZE_TRANSLATION' => '웹사이트에 맞게 다음 번역을 최적화하십시오 (예: "-wrapper 또는 HTML 엔터티 제거): %s',
 
     'ENHANCED_ARTICLE_DATA' => '제조업체의 강화된 제품 정보가 다음 JSON 문자열에 포함되어 있습니다(중요: 구매 가격 또는 가용성과 같은 내부 정보는 제조업체 정보에서 가져오지 마십시오): `%s`',
     

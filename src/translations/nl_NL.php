@@ -33,7 +33,8 @@ $aTranslations = array(
 	'TRANSLATION_LONG_TRANSLATION' => 'Vertaal alleen de lange beschrijving van het artikel voor "%s" van "%s" naar het Nederlands - en graag zonder intro: "%s".',
 	'TRANSLATION_SHORT_DESCRIPTION' => 'Vertaal alleen de korte beschrijving van het artikel voor "%s" van "%s" naar het Nederlands - en graag zonder intro: "%s".',
 
-    'OPTIMIZE_CONTENT' => 'Optimaliseer de volgende inhoud voor onze website: %s',
+    'OPTIMIZE_CONTENT' => 'Optimaliseer de volgende inhoud voor onze website (bijv. verwijder "-wrapper of HTML-entiteiten): %s',
+	'OPTIMIZE_TRANSLATION' => 'Optimaliseer de volgende vertaling voor onze website (bijv. verwijder "-wrapper of HTML-entiteiten): %s',
 
     'ENHANCED_ARTICLE_DATA' => 'Verbeterde productinformatie van de fabrikant is beschikbaar in de volgende JSON-string (Belangrijk: Geen interne informatie zoals aankoopprijzen of beschikbaarheid mag worden overgenomen uit de informatie van de fabrikant): `%s`',
 

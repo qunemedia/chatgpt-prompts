@@ -33,7 +33,8 @@ $aTranslations = array(
 	'TRANSLATION_LONG_TRANSLATION' => '仅将文章长描述"%s"从"%s"翻译成中文 - 请不要有介绍: "%s"。',
 	'TRANSLATION_SHORT_DESCRIPTION' => '仅将文章短描述"%s"从"%s"翻译成中文 - 请不要有介绍: "%s"。',
 
-    'OPTIMIZE_CONTENT' => '为我们的网站优化以下内容：%s',
+	'OPTIMIZE_CONTENT' => '为我们的网站优化以下内容（例如，删除 "-wrapper 或 HTML 实体）：%s',
+	'OPTIMIZE_TRANSLATION' => '为我们的网站优化以下翻译（例如，删除 "-wrapper 或 HTML 实体）：%s',
 
     'ENHANCED_ARTICLE_DATA' => '来自制造商的增强产品信息在以下JSON字符串中可用（重要提示：制造商信息中不应包含任何内部信息，例如购买价格或可用性）：`%s`',
 

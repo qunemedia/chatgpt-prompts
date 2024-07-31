@@ -33,7 +33,8 @@ $aTranslations = array(
 	'TRANSLATION_LONG_TRANSLATION' => 'Sadece "%s" için "%s" makale uzun açıklamasını Türkçe\'ye çevirin - ve lütfen bir giriş olmadan: "%s".',
 	'TRANSLATION_SHORT_DESCRIPTION' => 'Sadece "%s" için "%s" makale kısa açıklamasını Türkçe\'ye çevirin - ve lütfen bir giriş olmadan: "%s".',
 
-    'OPTIMIZE_CONTENT' => 'Aşağıdaki içeriği web sitemiz için optimize edin: %s',
+	'OPTIMIZE_CONTENT' => 'Aşağıdaki içeriği web sitemiz için optimize edin (örneğin, "-wrapper veya HTML varlıklarını kaldırın): %s',
+	'OPTIMIZE_TRANSLATION' => 'Aşağıdaki çeviriyi web sitemiz için optimize edin (örneğin, "-wrapper veya HTML varlıklarını kaldırın): %s',
 
     'ENHANCED_ARTICLE_DATA' => 'Üreticiden gelişmiş ürün bilgileri aşağıdaki JSON dizesinde mevcuttur (Önemli: Üretici bilgisi gibi hiçbir dahili bilgi alınmamalıdır, örneğin alış fiyatları veya bulunabilirlik): `%s`',
 

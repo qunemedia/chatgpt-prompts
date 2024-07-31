@@ -33,7 +33,8 @@ $aTranslations = array(
     'TRANSLATION_LONG_TRANSLATION' => 'Translate only the article long description for "%s" from "%s" into "English" - and please without an intro: "%s".',
     'TRANSLATION_SHORT_DESCRIPTION' => 'Translate only the article short description for "%s" from "%s" into "English" - and please without an intro: "%s".',
 
-    'OPTIMIZE_CONTENT' => 'Optimize the following content for our website: %s',
+    'OPTIMIZE_CONTENT' => 'Optimize the following content for our website (e.g. remove "-wrapper or html entities): %s',
+	'OPTIMIZE_TRANSLATION' => 'Optimize the following content for our website (e.g. remove "-wrapper or html entities): %s',
 
     'ENHANCED_ARTICLE_DATA' => 'Enhanced product information from the manufacturer is available in the following JSON string (Important: No internal information such as purchase prices or availability may be taken from the manufacturer information): `%s`',
 
