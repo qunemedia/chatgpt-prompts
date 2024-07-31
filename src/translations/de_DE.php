@@ -14,6 +14,8 @@ $aTranslations = array(
     'LABEL___uk_UA' => 'Ukrainisch',
     'LABEL___zh_CN' => 'Chinesisch (vereinfacht)',
     'LABEL___zh_TW' => 'Chinesisch (traditionell)',
+    'LABEL___ja_JP' => 'Japanisch',
+    'LABEL___ko_KR' => 'Koreanisch',
 
     'CONTEXT' => 'Zwischen den Trennern `--- START OF CONTEXT ---` und `--- END OF CONTEXT ---` stehen Meta-Informationen, die für die Erstellung des Inhalts relevant sind. Bitte beachte, dass diese Informationen nicht in den Inhalt übernommen werden sollen: "%s"',
 

@@ -14,6 +14,8 @@ $aTranslations = array(
     'LABEL___uk_UA' => 'Ukraynaca',
     'LABEL___zh_CN' => 'Çince (basitleştirilmiş)',
     'LABEL___zh_TW' => 'Çince (geleneksel)',
+    'LABEL___ja_JP' => 'Japonca',
+    'LABEL___ko_KR' => 'Korece',
 
     'CONTEXT' => '`--- BAĞLAMIN BAŞLANGICI ---` ve `--- BAĞLAMIN SONU ---` ayraçları arasında içerik oluşturulması için ilgili meta bilgileri yer almaktadır. Lütfen bu bilgilerin içeriğe dahil edilmemesi gerektiğini unutmayın: "%s"',
 

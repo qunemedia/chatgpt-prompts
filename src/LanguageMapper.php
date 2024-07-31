@@ -18,6 +18,9 @@ class LanguageMapper
             'pl' => 'pl_PL',
             'pt' => 'pt_PT',
             'ru' => 'ru_RU',
+            'tr' => 'tr_TR',
+            'tw' => 'zh_TW',
+            'uk' => 'uk_UA',
             'zh' => 'zh_CN',
         );
 

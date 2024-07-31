@@ -14,6 +14,8 @@ $aTranslations = array(
     'LABEL___uk_UA' => 'Oekraïens',
     'LABEL___zh_CN' => 'Chinees (vereenvoudigd)',
     'LABEL___zh_TW' => 'Chinees (traditioneel)',
+    'LABEL___ja_JP' => 'Japans',
+    'LABEL___ko_KR' => 'Koreaans',
 
     'CONTEXT' => 'Tussen de scheidingslijnen `--- BEGIN VAN CONTEXT ---` en `--- EINDE VAN CONTEXT ---` staat meta-informatie die relevant is voor het maken van de inhoud. Houd er rekening mee dat deze informatie niet in de inhoud moet worden opgenomen: "%s"',
 
