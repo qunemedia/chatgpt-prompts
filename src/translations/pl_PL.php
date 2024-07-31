@@ -18,8 +18,11 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Koreański',
 
     'CONTEXT' => 'Pomiędzy separatorami `--- POCZĄTEK KONTEXTU ---` i `--- KONIEC KONTEXTU ---` znajdują się meta-informacje istotne dla tworzenia treści. Proszę pamiętać, że te informacje nie powinny być zawarte w treści: "%s"',
+    'CONTEXT_TRANSLATE' => 'Przetłumacz następujące informacje z "%s" na "polski" - i proszę bez wprowadzenia: %s',
+    'CONTEXT_START' => '--- POCZĄTEK KONTEXTU ---',
+    'CONTEXT_END' => '--- KONIEC KONTEXTU ---',
 
-    'LONG_DESCRIPTION' => 'Utwórz długi opis artykułu dla "%s" z "%s". - Proszę bez wprowadzenia i maksymalnie %s słów.',
+    'LONG_DESCRIPTION' => 'Utwórz długi opis artykułu dla "%s" z "%s". - Proszę bez wprowadzenia, maksymalnie %s słów i w języku polskim.',
     'SHORT_DESCRIPTION' => 'Utwórz krótki opis artykułu dla "%s" z "%s". - Proszę bez wprowadzenia i maksymalnie %s słów.',
     'PRODUCT_SEARCHKEYS' => 'Utwórz rozdzielaną przecinkami listę synonimów CSV dla "%s" z "%s" bez wskazań rozmiaru, objętości, litrów lub ilości, bez marki/producenta lub indywidualnych cech produktu, takich jak kolor, i bez duplikatów.',
     'PRODUCT_ATTRIBUTES' => 'Spróbuj określić wartości dla następujących atrybutów artykułu "%s" (SKU producenta: %s) z "%s" i utwórz JSON; zwróć wartości, które są `null` jako null: ',

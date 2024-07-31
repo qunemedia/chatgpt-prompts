@@ -18,6 +18,9 @@ $aTranslations = array(
     'LABEL___ko_KR' => '韩语',
 
     'CONTEXT' => '在分隔符 `--- 上下文开始 ---` 和 `--- 上下文结束 ---` 之间是与内容创作相关的元信息。请注意，这些信息不应包含在内容中: "%s"',
+    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_START' => '--- 上下文开始 ---',
+    'CONTEXT_END' => '--- 上下文结束 ---',
 
     'LONG_DESCRIPTION' => '为"%s"创建一个来自"%s"的长文章描述。 - 请不要有介绍，并且最多 %s 字。',
     'SHORT_DESCRIPTION' => '为"%s"创建一个来自"%s"的短文章描述。 - 请不要有介绍，并且最多 %s 字。',

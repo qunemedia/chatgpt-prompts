@@ -18,6 +18,9 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Korece',
 
     'CONTEXT' => '`--- BAĞLAMIN BAŞLANGICI ---` ve `--- BAĞLAMIN SONU ---` ayraçları arasında içerik oluşturulması için ilgili meta bilgileri yer almaktadır. Lütfen bu bilgilerin içeriğe dahil edilmemesi gerektiğini unutmayın: "%s"',
+    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_START' => '--- BAĞLAMIN SONU ---',
+    'CONTEXT_END' => '--- BAĞLAMIN BAŞLANGICI ---',
 
     'LONG_DESCRIPTION' => '"%s" için "%s" dan uzun bir makale açıklaması oluşturun. - Ve lütfen bir giriş olmadan ve maksimum %s kelime ile.',
     'SHORT_DESCRIPTION' => '"%s" için "%s" dan kısa bir makale açıklaması oluşturun. - Ve lütfen bir giriş olmadan ve maksimum %s kelime ile.',

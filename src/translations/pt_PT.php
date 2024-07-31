@@ -18,6 +18,9 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Coreano',
 
     'CONTEXT' => 'Entre os separadores `--- INÍCIO DO CONTEXTO ---` e `--- FIM DO CONTEXTO ---` estão informações meta que são relevantes para a criação do conteúdo. Observe que estas informações não devem ser incluídas no conteúdo: "%s"',
+    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_START' => '--- INÍCIO DO CONTEXTO ---',
+    'CONTEXT_END' => '--- FIM DO CONTEXTO ---',
 
     'LONG_DESCRIPTION' => 'Criar uma descrição longa do artigo para "%s" de "%s". - E por favor, sem introdução e com no máximo %s palavras.',
     'SHORT_DESCRIPTION' => 'Criar uma descrição curta do artigo para "%s" de "%s". - E por favor, sem introdução e com no máximo %s palavras.',
