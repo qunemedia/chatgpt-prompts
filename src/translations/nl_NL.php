@@ -18,7 +18,7 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Koreaans',
 
     'CONTEXT' => 'Tussen de scheidingslijnen `--- BEGIN VAN CONTEXT ---` en `--- EINDE VAN CONTEXT ---` staat meta-informatie die relevant is voor het maken van de inhoud. Houd er rekening mee dat deze informatie niet in de inhoud moet worden opgenomen: "%s"',
-    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_TRANSLATE' => 'Vertaal de volgende informatie uit "%s" naar het Nederlands - en graag zonder intro: %s',
     'CONTEXT_START' => '--- BEGIN VAN CONTEXT ---',
     'CONTEXT_END' => '--- EINDE VAN CONTEXT ---',
 

@@ -18,7 +18,7 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Korece',
 
     'CONTEXT' => '`--- BAĞLAMIN BAŞLANGICI ---` ve `--- BAĞLAMIN SONU ---` ayraçları arasında içerik oluşturulması için ilgili meta bilgileri yer almaktadır. Lütfen bu bilgilerin içeriğe dahil edilmemesi gerektiğini unutmayın: "%s"',
-    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_TRANSLATE' => 'Aşağıdaki bilgileri "%s"den Türkçeye çevirin - ve lütfen giriş yapmayın: %s',
     'CONTEXT_START' => '--- BAĞLAMIN SONU ---',
     'CONTEXT_END' => '--- BAĞLAMIN BAŞLANGICI ---',
 

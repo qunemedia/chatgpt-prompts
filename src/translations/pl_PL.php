@@ -18,7 +18,7 @@ $aTranslations = array(
     'LABEL___ko_KR' => 'Koreański',
 
     'CONTEXT' => 'Pomiędzy separatorami `--- POCZĄTEK KONTEXTU ---` i `--- KONIEC KONTEXTU ---` znajdują się meta-informacje istotne dla tworzenia treści. Proszę pamiętać, że te informacje nie powinny być zawarte w treści: "%s"',
-    'CONTEXT_TRANSLATE' => 'Przetłumacz następujące informacje z "%s" na "polski" - i proszę bez wprowadzenia: %s',
+	'CONTEXT_TRANSLATE' => 'Przetłumacz następujące informacje z "%s" na polski - proszę bez wprowadzenia: %s',
     'CONTEXT_START' => '--- POCZĄTEK KONTEXTU ---',
     'CONTEXT_END' => '--- KONIEC KONTEXTU ---',
 

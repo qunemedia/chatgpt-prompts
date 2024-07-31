@@ -18,7 +18,7 @@ $aTranslations = array(
     'LABEL___ko_KR' => '한국어',
 
     'CONTEXT' => '구분자 `--- 컨텍스트 시작 ---` 와 `--- 컨텍스트 끝 ---` 사이에는 콘텐츠 생성에 관련된 메타 정보가 있습니다. 이 정보는 콘텐츠에 포함되지 않도록 하십시오: "%s"',
-    'CONTEXT_TRANSLATE' => '',
+    'CONTEXT_TRANSLATE' => '다음 정보를 "%s"에서 한국어로 번역하십시오 - 도입부 없이: %s',
     'CONTEXT_START' => '--- 컨텍스트 시작 ---',
     'CONTEXT_END' => '--- 컨텍스트 끝 ---',
 
