@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => '為"%s"製造商的"%s"創建一個短描述。 - 請不要有介紹，並且最多255個字符。',
     'VENDOR_SHORT_DESCRIPTION' => '為"%s"供應商的"%s"創建一個短描述。 - 請不要有介紹，並且最多255個字符。',
 
-    'TRANSLATION_TITLE' => '僅將文章名稱"%s"從"%s"翻譯成"英文" - 請不要有介紹。',
-    'TRANSLATION_LONG_TRANSLATION' => '僅將文章長描述"%s"從"%s"翻譯成"英文" - 請不要有介紹: "%s"。',
-    'TRANSLATION_SHORT_DESCRIPTION' => '僅將文章短描述"%s"從"%s"翻譯成"英文" - 請不要有介紹: "%s"。',
+	'TRANSLATION_TITLE' => '僅將文章名稱"%s"從"%s"翻譯成中文 - 請不要有介紹。',
+	'TRANSLATION_LONG_TRANSLATION' => '僅將文章長描述"%s"從"%s"翻譯成中文 - 請不要有介紹: "%s"。',
+	'TRANSLATION_SHORT_DESCRIPTION' => '僅將文章短描述"%s"從"%s"翻譯成中文 - 請不要有介紹: "%s"。',
 
     'OPTIMIZE_CONTENT' => '優化我們網站的以下內容：%s',
 

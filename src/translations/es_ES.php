@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => 'Crear una descripción corta del fabricante para "%s" de "%s". - Y por favor sin introducción y con un máximo de 255 caracteres.',
     'VENDOR_SHORT_DESCRIPTION' => 'Crear una descripción corta del proveedor para "%s" de "%s". - Y por favor sin introducción y con un máximo de 255 caracteres.',
 
-    'TRANSLATION_TITLE' => 'Traducir solo el nombre del artículo "%s" de "%s" al "inglés" - y por favor sin introducción.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Traducir solo la descripción larga del artículo para "%s" de "%s" al "inglés" - y por favor sin introducción: "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Traducir solo la descripción corta del artículo para "%s" de "%s" al "inglés" - y por favor sin introducción: "%s".',
+	'TRANSLATION_TITLE' => 'Traducir solo el nombre del artículo "%s" de "%s" al español - y por favor sin introducción.',
+	'TRANSLATION_LONG_TRANSLATION' => 'Traducir solo la descripción larga del artículo para "%s" de "%s" al español - y por favor sin introducción: "%s".',
+	'TRANSLATION_SHORT_DESCRIPTION' => 'Traducir solo la descripción corta del artículo para "%s" de "%s" al español - y por favor sin introducción: "%s".',
 
     'OPTIMIZE_CONTENT' => 'Optimizar el siguiente contenido para nuestro sitio web: %s',
 

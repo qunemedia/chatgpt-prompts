@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => '为"%s"制造商的"%s"创建一个短描述。 - 请不要有介绍，并且最多255个字符。',
     'VENDOR_SHORT_DESCRIPTION' => '为"%s"供应商的"%s"创建一个短描述。 - 请不要有介绍，并且最多255个字符。',
 
-    'TRANSLATION_TITLE' => '仅将文章名称"%s"从"%s"翻译成"英文" - 请不要有介绍。',
-    'TRANSLATION_LONG_TRANSLATION' => '仅将文章长描述"%s"从"%s"翻译成"英文" - 请不要有介绍: "%s"。',
-    'TRANSLATION_SHORT_DESCRIPTION' => '仅将文章短描述"%s"从"%s"翻译成"英文" - 请不要有介绍: "%s"。',
+	'TRANSLATION_TITLE' => '仅将文章名称"%s"从"%s"翻译成中文 - 请不要有介绍。',
+	'TRANSLATION_LONG_TRANSLATION' => '仅将文章长描述"%s"从"%s"翻译成中文 - 请不要有介绍: "%s"。',
+	'TRANSLATION_SHORT_DESCRIPTION' => '仅将文章短描述"%s"从"%s"翻译成中文 - 请不要有介绍: "%s"。',
 
     'OPTIMIZE_CONTENT' => '为我们的网站优化以下内容：%s',
 

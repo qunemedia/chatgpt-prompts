@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => 'Maak een korte fabrikantbeschrijving voor "%s" van "%s". - En graag zonder intro en met maximaal 255 tekens.',
     'VENDOR_SHORT_DESCRIPTION' => 'Maak een korte beschrijving voor de leverancier "%s" van "%s". - En graag zonder intro en met maximaal 255 tekens.',
 
-    'TRANSLATION_TITLE' => 'Vertaal alleen de naam van het artikel "%s" van "%s" naar "Engels" - en graag zonder intro.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Vertaal alleen de lange beschrijving van het artikel voor "%s" van "%s" naar "Engels" - en graag zonder intro: "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Vertaal alleen de korte beschrijving van het artikel voor "%s" van "%s" naar "Engels" - en graag zonder intro: "%s".',
+	'TRANSLATION_TITLE' => 'Vertaal alleen de naam van het artikel "%s" van "%s" naar het Nederlands - en graag zonder intro.',
+	'TRANSLATION_LONG_TRANSLATION' => 'Vertaal alleen de lange beschrijving van het artikel voor "%s" van "%s" naar het Nederlands - en graag zonder intro: "%s".',
+	'TRANSLATION_SHORT_DESCRIPTION' => 'Vertaal alleen de korte beschrijving van het artikel voor "%s" van "%s" naar het Nederlands - en graag zonder intro: "%s".',
 
     'OPTIMIZE_CONTENT' => 'Optimaliseer de volgende inhoud voor onze website: %s',
 

@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => '"%s" için "%s" üreticisinin kısa bir açıklamasını oluşturun. - Ve lütfen bir giriş olmadan ve maksimum 255 karakter ile.',
     'VENDOR_SHORT_DESCRIPTION' => '"%s" için "%s" tedarikçisinin kısa bir açıklamasını oluşturun. - Ve lütfen bir giriş olmadan ve maksimum 255 karakter ile.',
 
-    'TRANSLATION_TITLE' => 'Sadece "%s" makale adını "%s" den "İngilizce" ye çevirin - ve lütfen bir giriş olmadan.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Sadece "%s" için "%s" makale uzun açıklamasını "İngilizce" ye çevirin - ve lütfen bir giriş olmadan: "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Sadece "%s" için "%s" makale kısa açıklamasını "İngilizce" ye çevirin - ve lütfen bir giriş olmadan: "%s".',
+	'TRANSLATION_TITLE' => 'Sadece "%s" makale adını "%s" den Türkçe\'ye çevirin - ve lütfen bir giriş olmadan.',
+	'TRANSLATION_LONG_TRANSLATION' => 'Sadece "%s" için "%s" makale uzun açıklamasını Türkçe\'ye çevirin - ve lütfen bir giriş olmadan: "%s".',
+	'TRANSLATION_SHORT_DESCRIPTION' => 'Sadece "%s" için "%s" makale kısa açıklamasını Türkçe\'ye çevirin - ve lütfen bir giriş olmadan: "%s".',
 
     'OPTIMIZE_CONTENT' => 'Aşağıdaki içeriği web sitemiz için optimize edin: %s',
 

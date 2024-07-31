@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => 'Créer une courte description de fabricant pour "%s" de "%s". - Et s\'il vous plaît sans introduction et avec un maximum de 255 caractères.',
     'VENDOR_SHORT_DESCRIPTION' => 'Créer une courte description de fournisseur pour "%s" de "%s". - Et s\'il vous plaît sans introduction et avec un maximum de 255 caractères.',
 
-    'TRANSLATION_TITLE' => 'Traduire uniquement le nom de l\'article "%s" de "%s" en "anglais" - et s\'il vous plaît sans introduction.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Traduire uniquement la longue description de l\'article pour "%s" de "%s" en "anglais" - et s\'il vous plaît sans introduction : "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Traduire uniquement la courte description de l\'article pour "%s" de "%s" en "anglais" - et s\'il vous plaît sans introduction : "%s".',
+	'TRANSLATION_TITLE' => 'Traduire uniquement le nom de l\'article "%s" de "%s" en français - et s\'il vous plaît sans introduction.',
+	'TRANSLATION_LONG_TRANSLATION' => 'Traduire uniquement la longue description de l\'article pour "%s" de "%s" en français - et s\'il vous plaît sans introduction : "%s".',
+	'TRANSLATION_SHORT_DESCRIPTION' => 'Traduire uniquement la courte description de l\'article pour "%s" de "%s" en français - et s\'il vous plaît sans introduction : "%s".',
 
     'OPTIMIZE_CONTENT' => 'Optimiser le contenu suivant pour notre site web : %s',
 

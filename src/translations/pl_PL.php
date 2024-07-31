@@ -27,9 +27,9 @@ $aTranslations = array(
     'MANUFACTURER_SHORT_DESCRIPTION' => 'Utwórz krótki opis producenta dla "%s" z "%s". - Proszę bez wprowadzenia i maksymalnie 255 znaków.',
     'VENDOR_SHORT_DESCRIPTION' => 'Utwórz krótki opis dostawcy dla "%s" z "%s". - Proszę bez wprowadzenia i maksymalnie 255 znaków.',
 
-    'TRANSLATION_TITLE' => 'Przetłumacz tylko nazwę artykułu "%s" z "%s" na "angielski" - i proszę bez wprowadzenia.',
-    'TRANSLATION_LONG_TRANSLATION' => 'Przetłumacz tylko długi opis artykułu dla "%s" z "%s" na "angielski" - i proszę bez wprowadzenia: "%s".',
-    'TRANSLATION_SHORT_DESCRIPTION' => 'Przetłumacz tylko krótki opis artykułu dla "%s" z "%s" na "angielski" - i proszę bez wprowadzenia: "%s".',
+	'TRANSLATION_TITLE' => 'Przetłumacz tylko nazwę artykułu "%s" z "%s" na polski - i proszę bez wprowadzenia.',
+	'TRANSLATION_LONG_TRANSLATION' => 'Przetłumacz tylko długi opis artykułu dla "%s" z "%s" na polski - i proszę bez wprowadzenia: "%s".',
+	'TRANSLATION_SHORT_DESCRIPTION' => 'Przetłumacz tylko krótki opis artykułu dla "%s" z "%s" na polski - i proszę bez wprowadzenia: "%s".',
 
     'OPTIMIZE_CONTENT' => 'Optymalizuj następującą zawartość dla naszej strony internetowej: %s',
 
